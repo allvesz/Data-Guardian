@@ -172,3 +172,9 @@ button {
         border-radius: 0;
     }
 }
+
+/* Estilos para o título do formulário */
+h3 {
+    font-size: 1em;
+    color: #fff;
+}
